@@ -1,0 +1,13 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+dist
+
+#Hardhat files
+cache
+artifacts
+
+mint-config.json
+deployments/localhost.json

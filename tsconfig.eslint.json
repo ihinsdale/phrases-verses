@@ -1,0 +1,12 @@
+{
+  // Cf. https://github.com/typescript-eslint/typescript-eslint/blob/9441d5030211f1c32f5ae8e61d5565cab8bb6823/packages/parser/README.md#parseroptionsproject
+  "extends": "./tsconfig.json",
+  "include": [
+    "**/*.ts",
+    "*.ts",
+    ".*.ts",
+    "**/*.js",
+    "*.js",
+    ".*.js"
+  ]
+}

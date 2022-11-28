@@ -1,0 +1,1 @@
+Copyright (c) Ian Hinsdale, 2021-2022. All rights reserved.

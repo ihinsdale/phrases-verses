@@ -1,0 +1,41 @@
+{
+  "phrases": [
+    "And so",
+    " ",
+    "these parties",
+    "divided upon",
+    "that midnight plain",
+    "That you are here—",
+    "that life exists and identity,",
+    "\n",
+    "That the powerful play goes on,",
+    "and you may contribute a verse."
+  ],
+  "verses": [
+    {
+      "elements": [
+        { "kind": "newPhraseIndex", "value": 0 },
+        { "kind": "newPhraseIndex", "value": 1 },
+        { "kind": "newPhraseIndex", "value": 2 },
+        { "kind": "newPhraseIndex", "value": 1 },
+        { "kind": "newPhraseIndex", "value": 3 },
+        { "kind": "newPhraseIndex", "value": 1 },
+        { "kind": "newPhraseIndex", "value": 4 }
+      ],
+      "bases": [],
+      "expectedContent": "And so these parties divided upon that midnight plain"
+    },
+    {
+      "elements": [
+        { "kind": "newPhraseIndex", "value": 5 },
+        { "kind": "newPhraseIndex", "value": 6 },
+        { "kind": "newPhraseIndex", "value": 7 },
+        { "kind": "newPhraseIndex", "value": 8 },
+        { "kind": "newPhraseIndex", "value": 1 },
+        { "kind": "newPhraseIndex", "value": 9 }
+      ],
+      "bases": [],
+      "expectedContent": "That you are here—that life exists and identity,\nThat the powerful play goes on, and you may contribute a verse."
+    }
+  ]
+}
